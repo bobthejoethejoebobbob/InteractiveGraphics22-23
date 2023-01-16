@@ -3,16 +3,21 @@ body {
 }
 h1 {
   color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
-h2 {
-  color: purple;
-  font-family: helvetica;
+  font-family: serif;
   font-size: 300%;
 }
 p {
-  color: red;
-  font-family: courier;
+  color: gray;
+  font-family: serif;
   font-size: 160%;
+}
+h2 {
+  color: purple;
+  font-family: serif;
+  font-size: 120%;
+}
+li {
+  color: red;
+  font-family: serif;
+  font-size: 100%;
 }
