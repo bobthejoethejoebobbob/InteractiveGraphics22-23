@@ -1,0 +1,23 @@
+body {
+  background-color: #152238;
+}
+h1 {
+  color: purple;
+  font-family: serif;
+  font-size: 300%;
+}
+p {
+  color: white;
+  font-family: serif;
+  font-size: 160%;
+}
+h2 {
+  color: purple;
+  font-family: serif;
+  font-size: 120%;
+}
+a {
+  color: red;
+  font-family: serif;
+  font-size: 100%;
+}
